@@ -1,5 +1,7 @@
 # Snow Developer Kit
 
+(still not complete, to be launched soonish)
+
 Welcome to the Snow Developer Kit! This README will guide you through the steps to get started with your new SaaS project.
 
 ## Getting Started
@@ -49,7 +51,7 @@ Customize the following components according to your needs:
 Run the development server to see your changes:
 
 ```bash
-npm start
+npm run dev
 ```
 
 Navigate to `http://localhost:3000` to view your project.
