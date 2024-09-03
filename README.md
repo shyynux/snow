@@ -1,6 +1,6 @@
 # Snow Developer Kit
 
-(still not complete, to be launched soonish)
+
 
 Welcome to the Snow Developer Kit! This README will guide you through the steps to get started with your new SaaS project.
 
