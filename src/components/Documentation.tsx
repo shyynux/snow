@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Documentation = () => {
   return (
-    <section id="docs" className="w-full py-6 md:py-12 lg:py-16 border-t border-b">
+    <section id="docs" className="px-40 w-full py-6 md:py-12 lg:py-16 border-t border-b">
           <div className="container px-4 md:px-6">
             <div className="grid gap-10 sm:px-10 md:gap-16 md:grid-cols-2">
               <div className="space-y-4">

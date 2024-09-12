@@ -3,7 +3,7 @@ import {Routes, Route} from 'react-router-dom'
 import Home from './Home';
 import Create from './routes/Create';
 import Docs from './routes/Docs';
-import Pending from './routes/Pending';
+import Pending from './routes/Pending'; 
 
 
 const App = () => {
